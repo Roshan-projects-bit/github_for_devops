@@ -1,6 +1,6 @@
 def add():
     a = 5;
     b =10;
-    return a+b ;
-
+    c=a+b ;
+    return c;
 add()
